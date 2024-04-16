@@ -1,0 +1,118 @@
+*{
+    margin: 0; padding: 0;
+}
+body{
+    background-color: rgb(15, 15, 58);
+}
+.Sobre{
+    display: flex;
+    flex-direction: row;
+    gap: 30px;
+}
+.nav{
+    background-color: rgb(23, 23, 80);
+    justify-content: space-around;
+    display: flex;
+    flex-direction: row;
+    gap: 900px;
+    padding: 35px; 
+    border-radius: 10PX;   
+}
+a{ 
+    font-size: 25px;
+    font-family: "Imbue";
+    color: antiquewhite;
+    text-decoration: none;
+}
+.Ala1{
+    font-family: "Imbue";
+    text-align: center;
+    color: antiquewhite;
+}
+.Titulo{
+    font-size: 45px;
+}
+.Conteudo{
+    font-size: 35px;
+}
+.Imagem{
+    margin-top: 35px;
+    margin-bottom: 35px ;
+}
+.Ala2{
+    background-color: antiquewhite;
+    border-radius: 25px;
+    font-family: "Imbue";
+    text-align: center;
+    color: black;
+    margin-left: 110px;
+    margin-right: 110px;
+}
+.Txt{
+    font-size: 45px;
+    margin: 10px;
+}
+.Txt2{
+    font-size: 30px;
+    font: justify;
+    margin-left: 110px;
+    margin-right: 85px;
+}
+.Ala3{
+    background-color:rgb(62, 62, 117) ;
+    color:antiquewhite;
+    text-align: center;
+    font-family: "Imbue";
+    font-size: 85px;
+    margin-top: 100px;
+    border-radius: 50px;
+    margin: 100px 150px 150px;
+}
+.Imagem2{
+    align-items: center;
+    margin: 50px;
+    border-radius: 180px;
+    display: flex;
+    gap: 30px;
+}
+.Imagem3{
+    align-items: center;
+    margin: 50px;
+    border-radius: 180px;
+    display: flex;
+    gap: 30px;
+}
+.Ala5{
+    background-color: rgb(62, 62, 117) ;
+    color: antiquewhite;
+    text-align: center;
+    font-family: "Imbue";
+    font-size: 85px;
+    margin-top: 100px;
+    border-radius: 50px;
+    margin: 100px 150px 150px;
+}
+.Ala6{
+    background-color: rgb(23, 23, 80);
+    color: antiquewhite;
+    font-family: "Imbue";
+    font-size: 85px;
+    text-align: center;
+    border-radius: 15px;
+}
+.Github{
+    text-align: center;
+    margin-right: 50px;
+    margin-left: 5px;
+    font-size: 25px;
+}
+.linkedin{
+    text-align: center;
+    margin-right: 50px;
+    font-size: 25px;
+}
+.instagram{
+    text-align: center;
+    margin-right: 50px;
+    font-size: 25px;
+}
