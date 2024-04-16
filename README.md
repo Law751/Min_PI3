@@ -23,3 +23,6 @@ Personalize o estilo conforme desejado, modificando o CSS de acordo com suas pre
 ## Dominio do Site
 
 https://661ec0e6fab17a60e56391a1--sage-druid-f2f48d.netlify.app/
+
+## Contribuição
+Contribuições são bem-vindas! Se você tiver sugestões de melhorias, correções de bugs ou quiser adicionar novos recursos, sinta-se à vontade para abrir uma issue ou enviar um pull request.
