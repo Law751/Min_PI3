@@ -90,7 +90,7 @@ a{
     font-size: 85px;
     margin-top: 100px;
     border-radius: 50px;
-    margin: 100px 150px 150px;
+    margin: 100px 150px 120px;
 }
 .Ala6{
     background-color: rgb(23, 23, 80);
@@ -99,6 +99,7 @@ a{
     font-size: 85px;
     text-align: center;
     border-radius: 15px;
+    margin-bottom: 15px;
 }
 .Github{
     text-align: center;
@@ -115,4 +116,8 @@ a{
     text-align: center;
     margin-right: 50px;
     font-size: 25px;
+}
+.Certificados2{
+text-align: center;
+margin-bottom: 2cm;
 }
