@@ -1,3 +1,13 @@
-# Min_PI3
-Exercício para se acostumar com o Projeto Interdisciplinar 
-Projeto se trata de um modelo de currículo Vitae, mostrando meus objetivos e alguns dos meus projetos
+# Currículo
+
+Este é um projeto de currículo pessoal hospedado no GitHub.
+
+## Descrição
+
+Este projeto contém informações sobre alguns de meus projetos dentro da faculdade de tecnologia e alguns de meus certificados
+## Estrutura do Projeto
+
+- **index.html**: O arquivo HTML principal que contém o conteúdo do currículo.
+- **style.css**: O arquivo CSS para estilização do currículo.
+- **Imagem/**: Pasta contendo imagens e outros recursos utilizados no currículo.
+- **README.md**: Este arquivo que fornece informações sobre o projeto.
